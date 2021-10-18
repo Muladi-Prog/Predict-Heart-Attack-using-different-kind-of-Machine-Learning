@@ -18,6 +18,8 @@ Scales date between 0 and 1 based on the minimum and maximum data.
 2) Standard Scaler
 Process data by reducing all data by mean then divide it by standard deviation
 from data collection.
+
+
 Our steps :
 1. Split our data into feature and target with 80% for training and 20% for testing
 2. Make 4 types of feature that is:
